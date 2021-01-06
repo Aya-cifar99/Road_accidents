@@ -3,7 +3,7 @@ The ANN establishes the general patterns of accidents on Jordan’s road network
 
 # Input Variables :
 
-## Number Of Population And Registered Vehicles :
+## Number Of Population And Registered Vehicles 
 It is generally the number of population and registered vehicles is conventional parameters in ANN model which used to predict the number of accidents in a developing country.
 
 ## Length Of Paved Roads
